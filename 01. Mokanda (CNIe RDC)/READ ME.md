@@ -19,7 +19,7 @@ Voici un aperçu visuel de l'interface, pour plus d'images regarder dans les dos
 
 | Écran d'accueil | Détails du Document | Paramètres |
 | :---: | :---: | :---: |
-| ![Mokanda Accueil](screenshots/01_screenshots.webp) | ![Mokanda Document](screenshots/03_screenshots.webp) | ![Mokanda Paramètres](screenshots/document.png) |
+| ![Mokanda Accueil](screenshots/01_screenshots.webp) | ![Mokanda Document](screenshots/03_screenshots.webp) | ![Mokanda Paramètres](screenshots/05_screenshots.webp) |
 
 ---
 
