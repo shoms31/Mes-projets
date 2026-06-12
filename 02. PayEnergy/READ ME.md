@@ -15,9 +15,9 @@
 
 Voici un aperçu visuel de l'interface et du tunnel d'achat de crédit :
 
-| Écran de démarrage | Écran d'accueil |
-| :---: | :---: |
-| ![PayEnergy Démarrage](screenshots/01_screenshots.webp) | ![PayEnergy Accueil](screenshots/02_screenshots.webp) |
+| Écran de démarrage | Écran d'accueil | Profil utilisateur | Paramètres de l'application |
+| :---: | :---: | :---: | :---: |
+| ![PayEnergy Démarrage](screenshots/01_screenshots.webp) | ![PayEnergy Accueil](screenshots/02_screenshots.webp) | ![PayEnergy Utilisateur](screenshots/03_screenshots.webp) | ![PayEnergy Paramètres](screenshots/04_screenshots.webp) |
 
 
 ---
